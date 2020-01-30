@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Henry/Documents/NetBeansProjects/dong_goi_scorm/src/dong_goi_scorm/Libary/dom-2.3.0-jaxb-1.0.6.jar"/>
+	<classpathentry kind="lib" path="E:/LibaryJavaConnectDB/mysql-connector-java-5.1.48.jar"/>
+	<classpathentry kind="lib" path="E:/LibaryJavaConnectDB/mig_layout/miglayout-swing-5.2.jar"/>
+	<classpathentry kind="lib" path="E:/LibaryJavaConnectDB/mig_layout/miglayout-core-5.2.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
